@@ -1,28 +1,29 @@
 name: Generate Snake animation
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"   # chạy hàng ngày
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main branch
+      - name: Checkout main
         uses: actions/checkout@v3
-        with:
-          ref: main
 
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kettailor
           outputs: |
-            temp/snake.svg   # 👉 xuất ra thư mục tạm
+            dist/snake.svg
+
+      - name: Debug: list workspace
+        run: ls -R
 
       - name: List generated files
-        run: ls -R temp || echo "No temp folder"
+        run: ls -R dist || echo "No dist folder"
 
       - name: Deploy to output branch
         run: |
@@ -32,13 +33,10 @@ jobs:
           git fetch origin
           git checkout -B output
 
-          # clear nội dung cũ của branch output
           rm -rf *
-
-          # copy file từ temp vào dist
           mkdir -p dist
-          cp temp/snake.svg dist/snake.svg
+          cp ../dist/snake.svg dist/snake.svg || echo "snake.svg not found"
 
-          git add dist/snake.svg
+          git add dist/snake.svg || echo "No file to add"
           git commit -m "update snake animation" || echo "No changes to commit"
           git push origin output --force
