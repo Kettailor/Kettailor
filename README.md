@@ -44,23 +44,30 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&theme=default&hide_border=true">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&theme=radical">
+  </picture>
 
-<!-- Dark mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF#gh-dark-mode-only" height="165" alt="GitHub stats dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF#gh-dark-mode-only" height="165" alt="Top languages dark"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=default&hide_border=true">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=radical">
+  </picture>
 </p>
 
 <p align="center">
-
-<!-- Dark mode streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF#gh-dark-mode-only" alt="GitHub streak dark"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=default&hide_border=true">
+    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical">
+  </picture>
 </p>
 
 ---
 
-## 🕹️ My Activities
+## 🕹️ My Activities  
 
 <p align="center">
   <picture>
@@ -73,6 +80,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=blue&style=flat-square#gh-light-mode-only" alt="views light"/>
-  <img src="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=00FFFF&style=flat-square#gh-dark-mode-only" alt="views dark"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=00FFFF&style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=blue&style=flat-square">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=00FFFF&style=flat-square">
+  </picture>
 </p>
