@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Tran Le Kiet - Aka Kettailor
 
-# 👋 Hello, I'm Ket Tailor  
-
 <div align="center">
 
 <table>
