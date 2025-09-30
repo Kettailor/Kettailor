@@ -1,30 +1,37 @@
 # 👋 Hello, I'm Tran Le Kiet - Aka Kettailor
 
+# 👋 Hello, I'm Ket Tailor  
+
+<div align="center">
+
 <table>
 <tr>
-<td>
+<td valign="top" width="55%">
 
-### 💻 About Me  
+<h3>💻 About Me</h3>
+
 - 🚀 Web Developer | SEO Enthusiast  
-- 🎯 Currently working on: **Portfolio Website, SEO Projects**  
+- 🎯 Working on: **Portfolio Website, SEO Projects**  
 - 🌱 Learning: **Next.js, Tailwind CSS, SEO Optimization**  
 - ⚡ Fun fact: I love dark themes & futuristic design  
 
-### 🌐 Connect with me  
+<h3>🌐 Connect with me</h3>
 <p>
-  <a href="mailto:lekiet2409@gmail.com"><img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/KetTailor2409/"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://portfolio-KetTailor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=firefox&logoColor=black" /></a>
+  <a href="mailto:lekiet2409@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/KetTailor2409/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-KetTailor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 </td>
-<td>
+<td valign="top" width="45%">
 
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding gif"/>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
