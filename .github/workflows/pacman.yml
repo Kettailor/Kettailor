@@ -1,0 +1,27 @@
+name: Generate Pac-Man animation
+
+on:
+  schedule: # chạy mỗi 12h
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man
+        uses: Platane/pacman-action@v1
+        with:
+          github_user_name: Kettailor
+          svg_out_path: dist/pacman.svg
+
+      - name: Push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "Generate Pac-Man animation"
+          add: "dist/pacman.svg"
