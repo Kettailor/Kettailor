@@ -44,23 +44,41 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="165" alt="GitHub stats of Kettailor"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="165" alt="Top languages of Kettailor"/>
+
+<!-- Light mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" height="165" alt="GitHub stats light"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="165" alt="Top languages light"/>
+
+<!-- Dark mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF#gh-dark-mode-only" height="165" alt="GitHub stats dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF#gh-dark-mode-only" height="165" alt="Top languages dark"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub streak of Kettailor"/>
+
+<!-- Dark mode streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF#gh-dark-mode-only" alt="GitHub streak dark"/>
+
+<!-- Light mode streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub streak light"/>
+
 </p>
 
 ---
 
 ## 🕹️ My Activities
 
-![snake animation](https://raw.githubusercontent.com/Kettailor/Kettailor/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+
+![snake animation light](https://raw.githubusercontent.com/Kettailor/Kettailor/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake animation dark](https://raw.githubusercontent.com/Kettailor/Kettailor/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=00FFFF&style=flat-square" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=blue&style=flat-square#gh-light-mode-only" alt="views light"/>
+  <img src="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=00FFFF&style=flat-square#gh-dark-mode-only" alt="views dark"/>
 </p>
