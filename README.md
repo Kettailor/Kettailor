@@ -23,12 +23,11 @@
   <a href="https://portfolio-ket.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
-</td>
-<td valign="top" width="45%">
 
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding gif"/>
-
+<td align="center" valign="middle" width="45%">
+    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding gif"/>
 </td>
+
 </tr>
 </table>
 
