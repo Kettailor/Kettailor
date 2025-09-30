@@ -62,9 +62,9 @@
 
 ## 🕹️ My Activities
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/snake.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman.svg" />
+</p>
 
 ---
 
