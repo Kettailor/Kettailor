@@ -54,9 +54,10 @@
 
 ---
 
-## 🕹️ My Activities (Snake Style)
+## 🕹️ My Activities
 
-![Snake animation](https://raw.githubusercontent.com/Kettailor/Kettailor/output/dist/snake.svg)
+![snake animation](https://raw.githubusercontent.com/Kettailor/Kettailor/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake animation dark](https://raw.githubusercontent.com/Kettailor/Kettailor/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
