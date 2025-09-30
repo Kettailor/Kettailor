@@ -1,4 +1,7 @@
-<img src="./assets/gradient-title-animated.svg" alt="Gradient title animated" />
+<p align="center">
+  <img src="./assets/gradient-title-animated.svg" alt="Gradient Title Animated" />
+</p>
+
 
 <div align="center">
 
