@@ -2,15 +2,17 @@ name: Generate Snake animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # chạy mỗi ngày
+    - cron: "0 0 * * *"   # chạy tự động hàng ngày
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout main branch
         uses: actions/checkout@v3
+        with:
+          ref: main   # checkout branch main, KHÔNG checkout output
 
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
@@ -22,9 +24,14 @@ jobs:
       - name: List generated files
         run: ls -R dist || echo "No dist folder"
 
-      - name: Push to output branch
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
+      - name: Deploy to output branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git fetch origin
+          git checkout -B output
+          mkdir -p dist
+          cp dist/snake.svg dist/snake.svg
+          git add dist/snake.svg
+          git commit -m "update snake animation" || echo "No changes to commit"
+          git push origin output --force
