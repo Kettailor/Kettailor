@@ -12,8 +12,7 @@
       </stop>
     </linearGradient>
   </defs>
-  <rect fill="transparent" width="100%" height="100%"/>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+  <text x="95%" y="50%" text-anchor="end" dominant-baseline="central"
         font-size="34" font-weight="700"
         font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
         fill="url(#gradMove)">
