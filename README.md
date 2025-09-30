@@ -54,6 +54,12 @@
 
 ---
 
+## 🕹️ My Activities (Pac-Man Style)
+
+![Pac-Man animation](https://github.com/Kettailor/Kettailor/blob/output/dist/pacman.svg)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kettailor&label=Profile%20Views&color=00FFFF&style=flat-square" alt="views"/>
 </p>
