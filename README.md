@@ -60,12 +60,10 @@
 
 ---
 
-## 🕹️ My Activities
+## 🕹️ My Activities (Pac-Man Style)
 
 <div align="center">
-
-![snake animation dark](https://raw.githubusercontent.com/Kettailor/Kettailor/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman.svg" />
 </div>
 
 ---
