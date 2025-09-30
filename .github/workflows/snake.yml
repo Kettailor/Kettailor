@@ -1,42 +1,38 @@
-name: Generate Snake animation
+name: generate animation
 
 on:
-  workflow_dispatch:
+  # chạy tự động mỗi 24h
   schedule:
-    - cron: "0 0 * * *"   # chạy hàng ngày
+    - cron: "0 */24 * * *"
+  
+  # cho phép chạy thủ công
+  workflow_dispatch:
+  
+  # chạy khi có push vào main (trước đây là master, repo bạn dùng main thì sửa lại)
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 9
+    
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v3
-
-      - name: Generate snake
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kettailor
           outputs: |
-            dist/snake.svg
-
-      - name: Debug: list workspace
-        run: ls -R
-
-      - name: List generated files
-        run: ls -R dist || echo "No dist folder"
-
-      - name: Deploy to output branch
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git fetch origin
-          git checkout -B output
-
-          rm -rf *
-          mkdir -p dist
-          cp ../dist/snake.svg dist/snake.svg || echo "snake.svg not found"
-
-          git add dist/snake.svg || echo "No file to add"
-          git commit -m "update snake animation" || echo "No changes to commit"
-          git push origin output --force
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
