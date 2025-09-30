@@ -54,9 +54,9 @@
 
 ---
 
-## 🕹️ My Activities (Pac-Man Style)
+## 🕹️ My Activities (Snake Style)
 
-![Pac-Man animation](https://raw.githubusercontent.com/Kettailor/Kettailor/output/dist/pacman.svg)
+![Snake animation](https://raw.githubusercontent.com/Kettailor/Kettailor/output/dist/snake.svg)
 
 ---
 
