@@ -1,15 +1,30 @@
-# Kettailor
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+KetTailor;🚀+Web+Developer+%7C+Tech+Enthusiast;💡+Always+Learning+New+Things" alt="Typing SVG" />
+# 👋 Hello, I'm Tran Le Kiet - Aka Kettailor
+
+<table>
+<tr>
+<td>
+
+### 💻 About Me  
+- 🚀 Web Developer | SEO Enthusiast  
+- 🎯 Currently working on: **Portfolio Website, SEO Projects**  
+- 🌱 Learning: **Next.js, Tailwind CSS, SEO Optimization**  
+- ⚡ Fun fact: I love dark themes & futuristic design  
+
+### 🌐 Connect with me  
+<p>
+  <a href="mailto:lekiet2409@gmail.com"><img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/KetTailor2409/"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://portfolio-KetTailor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=firefox&logoColor=black" /></a>
 </p>
 
----
+</td>
+<td>
 
-## 🧑‍💻 About Me  
-- 🔭 Working on: **Portfolio Website, SEO Projects**  
-- 🌱 Learning: **Next.js, Tailwind CSS, SEO Optimization**  
-- ⚡ Fun fact: Introverted, gloomy and dark. Believe it or not.  
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,16 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub streak of Kettailor"/>
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:lekiet2409@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/KetTailor2409/"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://portfolio-ket.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=firefox&logoColor=black" /></a>
 </p>
 
 ---
