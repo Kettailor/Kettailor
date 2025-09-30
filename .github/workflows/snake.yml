@@ -1,14 +1,13 @@
 name: Generate Snake animation
 
 on:
-  schedule: # chạy tự động 1 lần/ngày
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *" # chạy mỗi ngày
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -20,8 +19,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Push to output branch
-        uses: EndBug/add-and-commit@v9
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          add: "dist/snake.svg"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
-          message: "Generate snake animation"
