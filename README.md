@@ -17,7 +17,7 @@
 <p>
   <a href="mailto:lekiet2409@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/KetTailor2409/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-ketTailor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://portfolio-ket.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 </td>
