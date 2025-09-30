@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tran Le Kiet - Aka Kettailor
+<img src="./assets/gradient-title-animated.svg" alt="Gradient title animated" />
 
 <div align="center">
 
