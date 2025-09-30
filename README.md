@@ -60,10 +60,10 @@
 
 ---
 
-## 🕹️ My Activities (Pac-Man Style)
+## 🕹️ My Activities
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/snake.svg" />
 </div>
 
 ---
