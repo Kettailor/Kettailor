@@ -1,8 +1,8 @@
-name: Generate Pac-Man animation
+name: Generate Snake animation
 
 on:
-  schedule: # chạy mỗi 12h
-    - cron: "0 */12 * * *"
+  schedule: # chạy tự động 1 lần/ngày
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,15 +13,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man
-        uses: Platane/pacman-action@v1
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kettailor
-          svg_out_path: dist/pacman.svg
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
+          add: "dist/snake.svg"
           branch: output
-          message: "Generate Pac-Man animation"
-          add: "dist/pacman.svg"
+          message: "Generate snake animation"
