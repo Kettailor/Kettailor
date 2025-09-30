@@ -2,17 +2,19 @@ name: generate pacman
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *"   # chạy 1 lần/ngày
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate Pac-Man
-        uses: yoshi389111/github-contribution-grid-pacman@main
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Kettailor
           outputs: dist/pacman.svg
