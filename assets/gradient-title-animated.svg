@@ -13,8 +13,8 @@
     </linearGradient>
   </defs>
 
-  <text x="30%" y="55%" text-anchor="start" dominant-baseline="middle"
-        font-size="44" font-weight="800"
+  <text x="5%" y="55%" text-anchor="start" dominant-baseline="middle"
+        font-size="50" font-weight="800"
         font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
         fill="url(#gradMove)">
     👋 Hello, I'm Tran Le Kiet - Aka Kettailor
