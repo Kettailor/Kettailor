@@ -2,7 +2,7 @@ name: Generate Snake animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # chạy 1 lần/ngày
+    - cron: "0 0 * * *" # chạy mỗi ngày
   workflow_dispatch:
 
 jobs:
@@ -16,10 +16,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kettailor
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
       - name: List generated files
-        run: ls -R dist
+        run: ls -R dist || echo "No dist folder"
 
       - name: Push to output branch
         uses: ad-m/github-push-action@v0.6.0
