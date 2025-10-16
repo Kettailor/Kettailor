@@ -59,14 +59,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=default&hide_border=true">
-    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kettailor&theme=radical">
-  </picture>
-</p>
-
 ---
 
 ## 🕹️ My Activities  
