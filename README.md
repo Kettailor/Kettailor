@@ -13,7 +13,7 @@ Hi, I'm **Kiet Tran**, a Web Developer with a strong interest in **SEO & perform
 - Focus: **Performance, UX, and Search Optimization**
 - Fun fact: I love **dark themes & futuristic UI design**
 <p>
-  <a href="mailto:lekiet2409@gmail.com">
+  <a href="mailto:kettailor2409@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/KetTailor2409/">
