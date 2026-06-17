@@ -7,8 +7,21 @@ Hi, I'm **Tran Le Kiet**, a **Software Engineer / Full-Stack Web Developer** wit
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=dark&perline=16#gh-dark-mode-only" alt="Technologies dark mode" width="100%" />
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=light&perline=16#gh-light-mode-only" alt="Technologies light mode" width="100%" />
+  <picture>
+    <source
+      srcset="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=dark&perline=16"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=light&perline=16"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=light&perline=16"
+      alt="Technologies"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ## About Me
@@ -79,8 +92,21 @@ Hi, I'm **Tran Le Kiet**, a **Software Engineer / Full-Stack Web Developer** wit
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Contribution graph dark mode" width="100%" />
-  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Contribution graph light mode" width="100%" />
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph.svg"
+      alt="Contribution graph"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
