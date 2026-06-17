@@ -9,15 +9,15 @@ Hi, I'm **Tran Le Kiet**, a **Software Engineer / Full-Stack Web Developer** wit
 <p align="center">
   <picture>
     <source
-      srcset="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=dark&perline=16"
+      srcset="https://skillicons.dev/icons?i=js%2Cts%2Cnodejs%2Cnextjs%2Creact%2Chtml%2Ccss%2Cbootstrap%2Cpython%2Cmysql%2Cmongodb%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cfigma&theme=dark&perline=16"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=light&perline=16"
+      srcset="https://skillicons.dev/icons?i=js%2Cts%2Cnodejs%2Cnextjs%2Creact%2Chtml%2Ccss%2Cbootstrap%2Cpython%2Cmysql%2Cmongodb%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cfigma&theme=light&perline=16"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=light&perline=16"
+      src="https://skillicons.dev/icons?i=js%2Cts%2Cnodejs%2Cnextjs%2Creact%2Chtml%2Ccss%2Cbootstrap%2Cpython%2Cmysql%2Cmongodb%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cfigma&theme=light&perline=16"
       alt="Technologies"
       width="100%"
     />
