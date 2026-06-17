@@ -1,54 +1,90 @@
-# Kiet Tran (Aka Kettailor)
+# Tran Le Kiet (Aka Kettailor)
 
-Hi, I'm **Kiet Tran**, a Web Developer with a strong interest in **SEO & performance-driven websites**. I enjoy building clean, modern interfaces and optimizing websites for both users and search engines.
+Hi, I'm **Tran Le Kiet**, a **Software Engineer / Full-Stack Web Developer** with a strong interest in **backend architecture, distributed systems, and modern web applications**. I enjoy building clean, scalable, and practical digital solutions with reliable APIs, thoughtful database design, and maintainable frontend experiences.
 
-<img src="./assets/BackgroupGit.jpg" alt="Kettailor" align="center" width="100%" height="auto" />
+<p align="center">
+  <img src="./assets/BackgroupGit.jpg" alt="Kettailor" width="100%" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode,figma" alt="Technologies" align="center" width="100%" height="auto" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=dark&perline=16#gh-dark-mode-only" alt="Technologies dark mode" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,bootstrap,python,mysql,mongodb,docker,git,github,vscode,figma&theme=light&perline=16#gh-light-mode-only" alt="Technologies light mode" width="100%" />
+</p>
 
 ## About Me
 
-- Role: **Web Developer | SEO Enthusiast**
-- Currently learning: **Next.js, Tailwind CSS, Advanced SEO**
-- Focus: **Performance, UX, and Search Optimization**
-- Fun fact: I love **dark themes & futuristic UI design**
+- Role: **Software Engineer | Full-Stack Web Developer**
+- Education: **Information Systems student at Industrial University of Ho Chi Minh City (IUH)**
+- Focus: **Backend Architecture, RESTful APIs, Database Design, and Distributed Systems**
+- Currently improving: **Next.js, Node.js, TypeScript, MySQL, MongoDB, and Docker**
+- Goal: Build **scalable, resilient, and user-focused web applications**
+
 <p>
   <a href="mailto:kettailor2409@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-kettailor2409%40gmail.com-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/KetTailor2409/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-KetTailor2409-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-ket.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://github.com/KetTailor">
+    <img src="https://img.shields.io/badge/GitHub-KetTailor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://kettailor.io.vn">
+    <img src="https://img.shields.io/badge/Portfolio-kettailor.io.vn-6f42c1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
+## Technical Skills
+
+- Programming Languages: **JavaScript (ES6+), TypeScript, Node.js, Python, SQL**
+- Backend & Architecture: **Express.js, RESTful API, Microservices, MVC, RabbitMQ**
+- Frontend Technologies: **Next.js, React, HTML5, CSS3, Bootstrap, Responsive Layouts**
+- Databases & Tools: **MySQL, MongoDB, Git, GitHub, Docker, Postman**
 
 ## Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&theme=radical&hide_border=true"
-        width="90%"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Kettailor&theme=radical&show_icons=true&hide_border=true"
-        width="90%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+      alt="Kettailor GitHub stats"
+      width="48%"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&hide_border=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&hide_border=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&hide_border=true&theme=default"
+      alt="Kettailor top languages"
+      width="36%"
+    />
+  </picture>
+</div>
 
+<br />
 
-![pacman-dark](https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-![pacman-light](https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph.svg#gh-light-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Contribution graph dark mode" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kettailor/Kettailor/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Contribution graph light mode" width="100%" />
+</p>
 
 ---
+
 <p align="center">
-  <i>Building clean web experiences with performance & SEO in mind</i>
+  <i>Building scalable web systems with clean architecture, reliable APIs, and practical user experiences.</i>
 </p>
