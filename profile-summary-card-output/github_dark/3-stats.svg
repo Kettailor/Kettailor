@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200" role="img" aria-labelledby="title desc">
+  <title id="title">Kettailor GitHub stats</title>
+  <desc id="desc">Placeholder GitHub stats card generated locally until GitHub Actions refreshes the live card.</desc>
+  <rect width="500" height="200" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="48" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">GitHub Stats</text>
+  <text x="28" y="90" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="17">Reliable local SVG fallback</text>
+  <text x="28" y="124" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="15">The scheduled workflow refreshes this card with current metrics.</text>
+  <text x="28" y="154" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="15">This avoids broken public API images in the README.</text>
+</svg>

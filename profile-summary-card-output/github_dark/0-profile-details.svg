@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+  <title id="title">Kettailor GitHub profile summary</title>
+  <desc id="desc">Placeholder profile summary card generated locally until GitHub Actions refreshes the live card.</desc>
+  <rect width="1000" height="220" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="40" y="62" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Kettailor GitHub Profile Summary</text>
+  <text x="40" y="105" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Static fallback card is ready.</text>
+  <text x="40" y="140" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="16">GitHub Actions will refresh this SVG with live profile summary cards.</text>
+  <text x="40" y="174" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="16">No runtime stats API call is required when someone opens the README.</text>
+</svg>

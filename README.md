@@ -56,38 +56,44 @@ Hi, I'm **Tran Le Kiet**, a **Software Engineer / Full-Stack Web Developer** wit
 
 ## Stats
 
-<div align="center">
+<p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+      srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"
       media="(prefers-color-scheme: dark)"
     />
+    <img
+      src="./profile-summary-card-output/github/0-profile-details.svg"
+      alt="Kettailor GitHub profile summary"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&hide_border=true&rank_icon=github&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="./profile-summary-card-output/github_dark/3-stats.svg"
+      media="(prefers-color-scheme: dark)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Kettailor&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+      src="./profile-summary-card-output/github/3-stats.svg"
       alt="Kettailor GitHub stats"
-      width="48%"
+      width="49%"
     />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&hide_border=true&theme=github_dark"
+      srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kettailor&layout=compact&hide_border=true&theme=default"
-      alt="Kettailor top languages"
-      width="36%"
+      src="./profile-summary-card-output/github/1-repos-per-language.svg"
+      alt="Kettailor repository languages"
+      width="49%"
     />
   </picture>
-</div>
+</p>
 
 <br />
 

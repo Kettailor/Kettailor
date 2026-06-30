@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200" role="img" aria-labelledby="title desc">
+  <title id="title">Kettailor repository languages</title>
+  <desc id="desc">Placeholder repository languages card generated locally until GitHub Actions refreshes the live card.</desc>
+  <rect width="500" height="200" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="28" y="48" fill="#0969da" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Repository Languages</text>
+  <rect x="28" y="82" width="88" height="10" rx="5" fill="#f1e05a"/>
+  <rect x="124" y="82" width="82" height="10" rx="5" fill="#3178c6"/>
+  <rect x="214" y="82" width="78" height="10" rx="5" fill="#3572a5"/>
+  <rect x="300" y="82" width="72" height="10" rx="5" fill="#e34c26"/>
+  <text x="28" y="126" fill="#57606a" font-family="Segoe UI, Arial, sans-serif" font-size="15">Static fallback. Auto-generated data will appear after the workflow runs.</text>
+</svg>
