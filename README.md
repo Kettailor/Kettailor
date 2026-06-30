@@ -56,44 +56,36 @@ Hi, I'm **Tran Le Kiet**, a **Software Engineer / Full-Stack Web Developer** wit
 
 ## Stats
 
-<p align="center">
-  <picture>
-    <source
-      srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="./profile-summary-card-output/github/0-profile-details.svg"
-      alt="Kettailor GitHub profile summary"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="./profile-summary-card-output/github_dark/3-stats.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="./profile-summary-card-output/github/3-stats.svg"
-      alt="Kettailor GitHub stats"
-      width="49%"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="./profile-summary-card-output/github/1-repos-per-language.svg"
-      alt="Kettailor repository languages"
-      width="49%"
-    />
-  </picture>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source srcset="./profile-summary-card-output/tokyonight/3-stats.svg" media="(prefers-color-scheme: dark)" />
+        <img src="./profile-summary-card-output/github/3-stats.svg" alt="Kettailor GitHub stats" width="100%" />
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" media="(prefers-color-scheme: dark)" />
+        <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Kettailor repository languages" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" media="(prefers-color-scheme: dark)" />
+        <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Kettailor commit languages" width="100%" />
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg" media="(prefers-color-scheme: dark)" />
+        <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Kettailor productive time" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br />
 
